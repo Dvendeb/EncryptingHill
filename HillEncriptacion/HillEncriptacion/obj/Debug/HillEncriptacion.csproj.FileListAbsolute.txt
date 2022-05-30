@@ -1,0 +1,10 @@
+C:\Users\dvend\source\repos\HillEncriptacion\HillEncriptacion\bin\Debug\HillEncriptacion.exe.config
+C:\Users\dvend\source\repos\HillEncriptacion\HillEncriptacion\bin\Debug\HillEncriptacion.exe
+C:\Users\dvend\source\repos\HillEncriptacion\HillEncriptacion\bin\Debug\HillEncriptacion.pdb
+C:\Users\dvend\source\repos\HillEncriptacion\HillEncriptacion\obj\Debug\HillEncriptacion.csproj.AssemblyReference.cache
+C:\Users\dvend\source\repos\HillEncriptacion\HillEncriptacion\obj\Debug\HillEncriptacion.Form1.resources
+C:\Users\dvend\source\repos\HillEncriptacion\HillEncriptacion\obj\Debug\HillEncriptacion.Properties.Resources.resources
+C:\Users\dvend\source\repos\HillEncriptacion\HillEncriptacion\obj\Debug\HillEncriptacion.csproj.GenerateResource.cache
+C:\Users\dvend\source\repos\HillEncriptacion\HillEncriptacion\obj\Debug\HillEncriptacion.csproj.CoreCompileInputs.cache
+C:\Users\dvend\source\repos\HillEncriptacion\HillEncriptacion\obj\Debug\HillEncriptacion.exe
+C:\Users\dvend\source\repos\HillEncriptacion\HillEncriptacion\obj\Debug\HillEncriptacion.pdb
